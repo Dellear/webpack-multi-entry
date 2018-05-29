@@ -1,0 +1,18 @@
+{
+  "name": "webpack-multi-entry",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "wang <358009775@qq.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "./node_modules/.bin/webpack"
+  },
+  "devDependencies": {
+    "html-loader": "^0.5.1",
+    "html-webpack-include-assets-plugin": "^1.0.4",
+    "html-webpack-plugin": "^2.29.0",
+    "html-webpack-plugin-assets-fix": "^1.0.2",
+    "webpack": "^3.10.0",
+    "webpack-merge": "^4.1.0"
+  }
+}
